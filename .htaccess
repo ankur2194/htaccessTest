@@ -1,0 +1,8 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^([a-z]+)/([0-9]+)/$ index.php?$1=$2 [NC,L]
+</IfModule>
+
+# END WordPress
