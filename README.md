@@ -1,4 +1,4 @@
 htaccessTest
 ============
 
-Test of .htaccess file for URL redirect pointed to SEO friendly URL purpose
+Test of .htaccess file for URL rewrite pointed to SEO friendly URL purpose
